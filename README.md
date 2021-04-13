@@ -9,6 +9,6 @@ DACON 공모전
 
 기준 : Logloss
 
-일정 : 2021.04.05 ~ 202105.24 17:59
+일정 : 2021.04.05 ~ 2021.05.24 17:59
 
 https://dacon.io/competitions/official/235713/overview/description/
